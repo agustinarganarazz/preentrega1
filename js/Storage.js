@@ -3,7 +3,7 @@ tareasStorage = JSON.parse(tareasStorage)
 
 let tareaContainer = document.getElementById("tareas-section")
 
-function renderCard (tareaItems) {
+const renderCard = (tareaItems)=> {
     tareaItems.forEach (tarea => {
         const card = document.createElement("div")
         card.innerHTML = `

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "descripcion": "Estudiar programacion",
+        "fechaVencimiento": "2024-08-20",
+        "categoria": "Personal",
+        "prioridad": "Alta",
+        "completada": false
+    },
+    {
+        "id": 2,
+        "descripcion": "Terminar proyecto de trabajo",
+        "fechaVencimiento": "2024-08-20",
+        "categoria": "Trabajo",
+        "prioridad": "Alta",
+        "completada": false
+    },
+    {
+        "id": 3,
+        "descripcion": "Limpiar la casa",
+        "fechaVencimiento": "2024-08-17",
+        "categoria": "Personal",
+        "prioridad": "Media",
+        "completada": false
+    },
+    {
+        "id": 4,
+        "descripcion": "Renovar inscripcion del gimnasio",
+        "fechaVencimiento": "2024-08-21",
+        "categoria": "Personal",
+        "prioridad": "Media",
+        "completada": false
+    },
+    {
+        "id": 5,
+        "descripcion": "Planear las vacaciones",
+        "fechaVencimiento": "2024-08-25",
+        "categoria": "Personal",
+        "prioridad": "Media",
+        "completada": false
+    },
+    {
+        "id": 6,
+        "descripcion": "Actualizar currículum vitae",
+        "fechaVencimiento": "2024-09-22",
+        "categoria": "Trabajo",
+        "prioridad": "Alta",
+        "completada": false
+    },
+    {
+        "id": 7,
+        "descripcion": "Pagar facturas",
+        "fechaVencimiento": "2024-09-04",
+        "categoria": "Personal",
+        "prioridad": "Alta",
+        "completada": false
+    },
+    {
+        "id": 8,
+        "descripcion": "Comprar regalo de cumpleaños para Juli",
+        "fechaVencimiento": "2024-11-10",
+        "categoria": "Personal",
+        "prioridad": "Media",
+        "completada": false
+    },
+    {
+        "id": 9,
+        "descripcion": "Enviar CV a empresas",
+        "fechaVencimiento": "2024-09-22",
+        "categoria": "Trabajo",
+        "prioridad": "Media",
+        "completada": false
+    },
+    {
+        "id": 10,
+        "descripcion": "Revisar planificación semanal",
+        "fechaVencimiento": "2024-08-19",
+        "categoria": "Trabajo",
+        "prioridad": "Alta",
+        "completada": false
+    }
+]
